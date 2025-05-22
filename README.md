@@ -26,6 +26,6 @@ git clone https://github.com/your-username/Scheduler.git
 cd Scheduler
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+
 
 
